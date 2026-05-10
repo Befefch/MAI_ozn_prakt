@@ -22,8 +22,8 @@
 
 ## Компиляция и запуск
 
-g++ main.cpp -o main
-./main
+`g++ main.cpp -o main
+./main`
 
 ## Пример вывода
 
